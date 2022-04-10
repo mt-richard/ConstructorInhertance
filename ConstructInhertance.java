@@ -1,3 +1,8 @@
+/*
+NAMES: MBANZA TUYISHIME Richard
+REG_NO: 20RP01184 */
+
+
 // Constructor : is similar to a method that is invoked when an object of the class is created.
 
 public class ConstructInhertance{
